@@ -1,0 +1,48 @@
+90
+êU
+SUCCESS:
+90
+êU
+68
+
+SUCCESS:
+68
+
+Negative numbers are not accepted for this blackbox
+
+SUCCESS:
+Negative numbers are not accepted for this blackbox
+
+SUCCESS:
+7
+
+SUCCESS:
+Negative numbers are not accepted for this blackbox
+
+SUCCESS:
+Negative numbers are not accepted for this blackbox
+
+SUCCESS:
+5
+
+SUCCESS:
+5
+
+SUCCESS:
+Negative numbers are not accepted for this blackbox
+
+SUCCESS:
+5
+
+SUCCESS:
+Negative numbers are not accepted for this blackbox
+
+SUCCESS:
+6
+
+FAIL:
+Negative numbers are not accepted for this blackbox
+
+FAIL:
+Negative numbers are not accepted for this blackbox
+
